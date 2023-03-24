@@ -1,1 +1,1 @@
-C programming is Awesome
+C programming
